@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cbz
 - 👀 I’m interested in machine learning, networks and music.
-- 🌱 I’m currently learning data modellings
+- 🌱 I’m currently learning data modelling techniques.
 
 <!---
 cbz/cbz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
