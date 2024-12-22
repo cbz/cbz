@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cbz
 - 👀 I’m interested in machine learning, networks and music.
-- 🌱 I’m currently working on Rust.
+- 🌱 I’m currently working on Rust and Elixir
 
 <!---
 cbz/cbz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
